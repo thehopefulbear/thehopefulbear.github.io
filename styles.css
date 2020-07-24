@@ -1,0 +1,33 @@
+body {
+    margin-left: 10%;
+    font-family: "Georgia";
+    background-color: rgb(255, 255, 255);
+    margin-right: 10%;
+}
+h1 {
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+
+h3 {
+    font-weight: normal;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+p {
+    max-width: 40em
+}
+
+div#posts
+{
+	margin-top: 5em;
+	margin-bottom: 10em
+}
